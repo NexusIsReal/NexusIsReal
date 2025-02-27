@@ -2,7 +2,7 @@
 
 ## About Me
 
-Hello! I'm **Nexus**, a passionate **Full-Stack Web Developer** and **Minecraft Plugin Developer** with a strong foundation in **Java** and **Next.js**. I love building cool stuff, whether it's a fully functional web application or a custom Minecraft plugin that enhances the gaming experience. When I'm not coding, you can find me **[Your Hobbies]**.
+Hello! I'm **Nexus**, a passionate **Full-Stack Web Developer** and **Minecraft Plugin Developer** with a strong foundation in **Java** and **Next.js**. I love building cool stuff, whether it's a fully functional web application or a custom Minecraft plugin that enhances the gaming experience. When I'm not coding, you can find me **gaming :)**.
 
 🌱 I’m currently learning:
 - **New frameworks and libraries** for web development
