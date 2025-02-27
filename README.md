@@ -17,17 +17,13 @@ Hello! I'm **Nexus**, a passionate **Full-Stack Web Developer** and **Minecraft 
 
 Here are some of the repositories I’m really proud of:
 
-### 🛠️ [Next.js Web App](https://github.com/NexusIsReal/project1)
+### 🛠️ [Next.js Web App](https://github.com/NexusIsReal/webhosting-website)
 - A full-stack web application built with **Next.js**.
 - **Tech stack**: Next.js, React, Node.js, MongoDB
 
-### 🏰 [Minecraft Plugin](https://github.com/NexusIsReal/project2)
+### 🏰 [Minecraft Plugin](https://github.com/NexusIsReal/Important-commands-plugin)
 - A custom plugin for Minecraft servers that enhances gameplay.
 - **Tech stack**: Java, Spigot API, Bukkit
-
-### 🔧 [Web Development Projects](https://github.com/NexusIsReal/project3)
-- A collection of full-stack web development projects built with modern technologies.
-- **Tech stack**: JavaScript, Node.js, Express, MongoDB
 
 ## 🧑‍💻 Languages and Tools
 
