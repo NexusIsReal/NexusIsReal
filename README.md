@@ -1,3 +1,7 @@
+Let me fix the GitHub streak image that's not displaying correctly. The issue might be with the URL or parameters.
+
+Here's the updated profile with a fixed GitHub streak stats image:
+
 # 🚀 Welcome to Nexus's Digital Universe
 
 <div align="center">
@@ -86,7 +90,9 @@ Hey there! I'm **Nexus** – where code meets creativity. I transform ideas into
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=NexusIsReal&count_private=true&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&custom_title=Nexus's%20GitHub%20Journey" alt="GitHub Stats" />
   
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NexusIsReal&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Streak" />
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=NexusIsReal&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Streak" />
+  </a>
 </div>
 
 ## 🔗 Connect With Me
