@@ -86,7 +86,7 @@ Hey there! I'm **Nexus** – where code meets creativity. I transform ideas into
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=NexusIsReal&count_private=true&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&custom_title=Nexus's%20GitHub%20Journey" alt="GitHub Stats" />
   
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-liart-eta.vercel.app?user=NeuxsIsReal&theme=tokyonight&hide_border=true&short_numbers=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" /></a>
+<img src="https://github-readme-streak-stats-liart-eta.vercel.app/?user=NexusIsReal&theme=tokyonight&hide_border=true&short_numbers=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
 </div>
 
 ## 🔗 Connect With Me
